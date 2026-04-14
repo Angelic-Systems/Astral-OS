@@ -1,6 +1,6 @@
-# Angelic-OS-x86_64
+# Astral-OS
 
-IMPORTANT! Angelic-OS is a work in progress and is not yet ready for daily use! 
+IMPORTANT! Astral-OS is a work in progress and is not yet ready for daily use! 
 
 comes pre-installed with the following applications:
 
