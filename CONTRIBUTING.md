@@ -2,7 +2,7 @@
 
 Thank you for considering contributing to **Astral OS**!  
 This is a small, personal, and strictly **TUI-first** Void Linux-based distro. 
-The goal is to keep it lightweight, clean, and focused on a great terminal experience (Zellij + zjstatus, labwc, kitty, etc.).
+The goal is to keep it lightweight, clean, and focused on a great terminal experience (Zellij + zjstatus, kitty, etc.).
 
 **Reproducible** Include steps to reproduce the problem.
 **Specific** Include as much detail as possible: which version, what environment, etc.
