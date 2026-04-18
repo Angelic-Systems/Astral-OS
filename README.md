@@ -5,7 +5,7 @@ IMPORTANT! Astral-OS is a work in progress and is not yet ready for daily use!
 comes pre-installed with the following applications:
 
 plymouth,
-labwc,
+sway,
 zellij,
 neovim,
 nano,
