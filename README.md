@@ -8,3 +8,4 @@ comes pre-installed with the following applications:
 
 zellij,
 Foot,
+Quickshell,
