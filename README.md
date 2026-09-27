@@ -6,22 +6,5 @@ Astral OS is built for terminal power users. It uses a custom built compositor t
 
 comes pre-installed with the following applications:
 
-plymouth,
-sway,
 zellij,
-neovim,
-nano,
-zjstatus,
-kitty,
-btop,
-yazi,
-wiremix,
-bluetui,
-impala,
-
-keybinds:
-
-super + K = keybinding guide 
-super + return = open terminal window,
-super + W = close window,
-super + shift + b = lynx browser, 
+Foot,
